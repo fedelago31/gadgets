@@ -1,0 +1,30 @@
+/*google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Satisfy&display=swap');
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0,0,0,0.1);
+    font-family: 'Roboto Slab', serif;
+}
+
+.title
+{
+    text-align: center;
+    padding-top: 25px;
+    font-size:30px;
+
+}
+
+.sub-title
+{
+    text-align: center;
+    padding-top: 15px;
+    font-size:24px;
+
+}
+
+.thumbnail{
+    margin-top: 10px;
+}
